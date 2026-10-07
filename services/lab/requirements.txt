@@ -1,6 +1,6 @@
 # Servicio de datos del Laboratorio: solo lo que corre en producción (sin torch).
 # Versiones probadas el 2026-09-26 (evaluar.py: ACEPTADO).
-fastapi==0.141.1
+fastapi==0.142.2
 uvicorn==0.54.0
 pydantic==2.13.5
 onnxruntime==1.30.0
