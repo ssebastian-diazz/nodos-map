@@ -3,7 +3,7 @@
 fastapi==0.141.1
 uvicorn==0.54.0
 pydantic==2.13.5
-onnxruntime==1.30.0
+onnxruntime==1.31.0
 faiss-cpu==1.15.1
 tokenizers==0.23.2
 numpy==2.5.3
