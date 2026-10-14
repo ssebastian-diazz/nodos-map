@@ -5,7 +5,7 @@ uvicorn==0.54.0
 pydantic==2.13.5
 onnxruntime==1.30.0
 faiss-cpu==1.15.1
-tokenizers==0.23.2
+tokenizers==0.23.3
 numpy==2.5.3
 pandas==3.0.6
 pyarrow==25.0.1
