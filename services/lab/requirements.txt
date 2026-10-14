@@ -2,7 +2,7 @@
 # Versiones probadas el 2026-09-26 (evaluar.py: ACEPTADO).
 fastapi==0.141.1
 uvicorn==0.54.0
-pydantic==2.13.5
+pydantic==2.14.1
 onnxruntime==1.30.0
 faiss-cpu==1.15.1
 tokenizers==0.23.2
